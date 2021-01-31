@@ -1,1 +1,3 @@
 # Bank-Churn-Prediction---ML
+Customer churn refers to the phenomenon when a customer leaves a company or an organization,in our case a bank. Some studies shows that accquiring new coustomers can cost 5 times than that of satisfying and retaining existing customers. Thus tracking of bank customer churn rate through prediction will help in reducing marketing costs, lead to increase in capital ,expanding total customers and a lot more.¶
+In this project, we will be doing an Exploratory Data Analysis(EDA) and churn prediction through machine learning and deep learning techniques on the bank customers dataset which is taken from Kaggle.
